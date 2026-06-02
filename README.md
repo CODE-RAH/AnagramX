@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:7c3aed,100:1e293b&text=AnagramX&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Smart%20Anagram%20Generator%20%26%20Word%20Mixer&descAlignY=63&animation=twinkling" width="100%" />
+![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:7c3aed,100:1e293b&text=AnagramX&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Smart%20Anagram%20Generator%20%26%20Word%20Mixer&descAlignY=63&animation=twinkling)
+
+<div align="center">
 
 # 🔤 ترکیب‌ساز و آنالیزگر هوشمند حروف
 ## Smart Anagram Generator & Word Mixer
