@@ -1,18 +1,13 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:7c3aed,100:0f0f1a&text=Anagram%20Generator&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Fast%20Permutation%20%26%20Combination%20Generator%20with%20PyQt6&descAlignY=63&animation=twinkling" width="100%" />
 
-<h1>🔤 ترکیب‌ساز حروف</h1>
-<h2>Anagram Generator</h2>
-<h3>توسعه داده شده توسط تیم تخصصی CODE RAH 💻</h3>
+<div align="center">
 
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyQt6](https://img.shields.io/badge/PyQt6-GUI-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-6A0DAD?style=for-the-badge)
+# 🔤 ترکیب‌ساز حروف
+## Anagram Generator
+### توسعه داده شده توسط تیم تخصصی CODE RAH 💻
 
 </div>
+
 ---
 
 # 🛑 بیانیه کپی‌رایت و مالکیت معنوی
