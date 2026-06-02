@@ -4,11 +4,15 @@
 
 <h1>🔤 ترکیب‌ساز حروف</h1>
 <h2>Anagram Generator</h2>
-
 <h3>توسعه داده شده توسط تیم تخصصی CODE RAH 💻</h3>
 
-</div>
+<br/>
 
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-GUI-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-6A0DAD?style=for-the-badge)
+
+</div>
 ---
 
 # 🛑 بیانیه کپی‌رایت و مالکیت معنوی
