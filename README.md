@@ -1,9 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:7c3aed,100:0f0f1a&text=Anagram%20Generator&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Fast%20Permutation%20%26%20Combination%20Generator%20with%20PyQt6&descAlignY=63&animation=twinkling" width="100%" />
-
 <div align="center">
 
-# 🔤 ترکیب‌ساز حروف
-## Anagram Generator
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:7c3aed,100:1e293b&text=AnagramX&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Smart%20Anagram%20Generator%20%26%20Word%20Mixer&descAlignY=63&animation=twinkling" width="100%" />
+
+# 🔤 ترکیب‌ساز و آنالیزگر هوشمند حروف
+## Smart Anagram Generator & Word Mixer
+
 ### توسعه داده شده توسط تیم تخصصی CODE RAH 💻
 
 </div>
